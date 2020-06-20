@@ -27,5 +27,9 @@
     },
     "PlayerQuit": {
         "Message": "&6[PLAYER] &7left the game!"
+    },
+    "Messages": {
+        "Reload": "&aReloaded Lobby!",
+        "Teleport": "&7Teleporting to &eSpawn&7..."
     }
 }
