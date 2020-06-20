@@ -27,6 +27,8 @@
     },
     "Messages": {
         "Reload": "&aReloaded Lobby!",
-        "Teleport": "&7Teleporting to &eSpawn&7..."
+        "Teleport": "&7Teleporting to &eSpawn&7...",
+        "SendPlayerHub": "&aSending &e[PLAYER] &ato Hub!",
+        "SendAllHub": "&aSending &eALL PLAYERS &ato Hub!"
     }
 }
