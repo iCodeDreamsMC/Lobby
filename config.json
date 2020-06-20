@@ -4,13 +4,10 @@
     "ServerID": "00000000000000000000",
     "AdminID": "00000000000000000000",
     "Debug": true,
-    "Rank-Placeholder": "",
     "Lobby": {
         "X": 0.0,
         "Y": 0.0,
         "Z": 0.0,
-        "YAW": 0.0,
-        "PITCH": 0.0,
         "WORLD": "world"
     },
     "PlayerJoin": {
