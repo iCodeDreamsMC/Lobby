@@ -1,0 +1,30 @@
+{
+    "Prefix": "&eLobby&6> &7",
+    "Version": "1.0",
+    "ServerID": "00000000000000000000",
+    "AdminID": "00000000000000000000",
+    "Debug": true,
+    "Lobby": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0,
+        "YAW": 0.0,
+        "PITCH": 0.0,
+        "WORLD": ""
+    },
+    "PlayerJoin": {
+        "Message": "",
+        "PrivateMessage": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Title": "",
+        "Subtitle": ""
+    },
+    "PlayerQuit": {
+        "Message": ""
+    }
+}
